@@ -1,0 +1,1 @@
+Collaborated with a team to design and develop a data-driven dashboard analyzing youth job market trends, utilizing Q2 Impact data to visualize job distribution, company registration status, and regional dynamics.
